@@ -1,8 +1,8 @@
 # IdentifyingHighNeedCountriesforAidUsingPCAandClusteringAlgorithms
-![Alt text](https://github.com/yourusername/yourrepository/raw/branchname/path/to/your/image.png)
-![Alt text](https://github.com/yourusername/yourrepository/raw/branchname/path/to/your/image.png)
-![Alt text](https://github.com/yourusername/yourrepository/raw/branchname/path/to/your/image.png)
-![Alt text](https://github.com/yourusername/yourrepository/raw/branchname/path/to/your/image.png)
+![Alt text](PROJECT2PART1.jpeg)
+![Alt text](PROJECT2PART2.jpeg)
+![Alt text](PROJECT2PART3.jpeg)
+![Alt text](PROJECT2PART4.jpeg)
 
 ## Project Overview
 This project aims to strategically allocate $120 million in humanitarian aid by identifying countries in dire need using advanced data science techniques. By analyzing socio-economic and health indicators, we employ Principal Component Analysis (PCA), K-Means Clustering, and Hierarchical Clustering to classify and prioritize countries, ensuring that aid reaches those who need it most.
